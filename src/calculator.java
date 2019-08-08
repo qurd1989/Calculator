@@ -62,7 +62,7 @@ public class calculator  {
         driver.findElement(By.name("telephoneno")).sendKeys("3470292901");
 
         //get Email
-        driver.findElement(By.name("emailid")).sendKeys("elmarabdiyev@yahoo.com");
+        driver.findElement(By.name("emailid")).sendKeys("hard_work@yahoo.com");
 
         //get password
         driver.findElement(By.name("password")).sendKeys("123456");
